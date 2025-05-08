@@ -1,0 +1,4 @@
+,embedding,detector,precision,recall,f-score,auc
+0,reconstruction,USAD,0.8,0.8,0.8,0.8
+1,attention,AnoTran,0.4,0.4,0.4,0.5
+2,idk,idk,1.0,1.0,1.0,1.0

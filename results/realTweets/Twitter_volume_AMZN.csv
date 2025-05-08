@@ -1,0 +1,4 @@
+,embedding,detector,precision,recall,f-score,auc
+0,reconstruction,USAD,0.8,0.8,0.8,0.9818840579710144
+1,attention,AnoTran,0.3,0.3,0.3,0.5420289855072463
+2,idk,idk,0.05,0.05,0.05,0.5072463768115942
